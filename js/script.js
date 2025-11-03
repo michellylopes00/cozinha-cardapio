@@ -19,6 +19,3 @@ function exibirTabelaCardapio(cardapio){
 
 }
 
-async function listarCardapio() {
-    
-}
